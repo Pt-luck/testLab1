@@ -6,7 +6,7 @@ Console.WriteLine("Version: {0}", Environment.Version.ToString());
 string text = System.IO.File.ReadAllText("text.txt");
 Console.WriteLine(text);
 
-   
+      
 string[] names; // can reference any size array of strings
 
 // allocating memory for four strings in an array
